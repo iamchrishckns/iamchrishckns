@@ -35,8 +35,12 @@
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=FFFFFF" /> 
 <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=FFFFFF" /> 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" /> 
-<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF" /> 
 <img alt="Ubiquiti" src="https://img.shields.io/badge/-Ubiquiti-0559C9?style=for-the-badge&logo=Ubiquiti&logoColor=FFFFFF" /> 
+
+### Automation Tools
+
+<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF" /> 
+<img alt="Puppet" src="https://img.shields.io/badge/PUPPET-183A61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAxCAYAAAC78KvKAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAAWJLR0RnW9PpswAAAAd0SU1FB+UEDhEZEARRgVkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDQtMTRUMTc6MjU6MTYrMDA6MDBQCCgbAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTA0LTE0VDE3OjI1OjE2KzAwOjAwIVWQpwAAAnZJREFUWEftmEtrFEEQx6t6ZgchKK5izFPFBwEfCObiXbwr+MCNNw/i4xK8+g0Eb77AU3QVg17MHo3xA7gXDx7izcPuShQEwYC702W1qZ0YdnaZ7h6Jh/lBMVvVy9a/e6of26if7NgGGJXBAbzc+owAJK4TqJ+OzKJSd8W348dohFfrbfGcUPLcNAoBqQKIIGb7uW60Kk2502cE6JWaaQx1DWK9Txpyp6iB/1QAwmn9bKzeNQjVG2nJnVQBCFjmJfbEuuExadoAbf8Sykdn/F5BR1fp/XRJPCe8BCDCWVpuztP84UhC1ngXIb+iM9T+7izC7IZ7IcAp8QcTUwCo7nDPj0gkgVfL11gqn8cLH39JKBPcATv03O5hCIJFFnFUQgkEtIBh+ZyNCGsBhj8ieGqmzQ4eiRoE6ra4g0FcdhJg0C9GdkGMi/2maBYI8LhzEaqLrRVYpVPc4w8ScsJrFqgrrRUeQi8R/tNwpvmVK+mxuNZ4C/ClEFAIyEuA84LmLYCqw/s5/y1xrfESoJ9PHiAI3nH390jIGmcBJjnozhIiTkrICcfdcOIghPESb0QTEkrgLXkONGU6xCJGNWsBujp+iI8xb/skf4SXmtf4rJD5zgB5bx/CLXqr+AOhTmmUN/wFHvZxCSXwhvQQK83rNskNfhcUAvf8Aff8hm1yg/80BLrvmtzgJYCH/R4nv+ma3OAlAKfGZn2SG1IF8C9qtnZiBB1p2khdnh6kjwDRS1VpRF2DOO6p+rzwLkJfCgGpCxHP7W/8+LTm8ZcAzV/w6TXvL/7VTSkn3Ml2smsc6k2eE0UNbH4RmjMdQdhz4ZAFrDRqfksxwG8MG9VptXQkggAAAABJRU5ErkJggg==" /> 
 
 ### Applications, Tools and Services I use on a regualar basis 
 
