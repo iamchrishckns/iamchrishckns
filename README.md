@@ -18,7 +18,7 @@
 
 <p align="center">
     <img alt="Timezone Europe/Berlin (CEST)" src="https://img.shields.io/badge/Timezone-Europe/Berlin (CEST)-purple">
-    <img alt="Age 24" src="https://img.shields.io/badge/Age-24-purple">
+    <img alt="Age 25" src="https://img.shields.io/badge/Age-25-purple">
     <img alt="Pronouns He/Him" src="https://img.shields.io/badge/Pronouns-He / Him-purple">
 </p>
 
