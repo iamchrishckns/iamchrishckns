@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://twitter.com/iamchrishckns" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF"></img> 
+    <img alt="X aka. Twitter" src="https://img.shields.io/badge/-X%20aka.%20Twitter-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"></img> 
 </a>
 
 <a href="https://github.com/iamchrishckns/dotfiles" target="_blank">
@@ -22,34 +22,50 @@
     <img alt="Pronouns He/Him" src="https://img.shields.io/badge/Pronouns-He / Him-purple">
 </p>
 
+<p align="center">
+  Software Developer & Linux System Engineer
+</p>
+
+<p align="center">
+> Dark Souls: Kubernetes Edition 🔥 <
+</p>
+
 <h2 align="center">Technologies and Tools I Use 🛠</h2>
 
-### Infrastructure & Network Technologies 
+### Infrastructure & Virtualization
 
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0079D5?style=for-the-badge&logo=windows&logoColor=FFFFFF" /> 
 <img alt="MAC OS" src="https://img.shields.io/badge/-mac%20OS-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000" /> 
+<img alt="Arch btw" src="https://img.shields.io/badge/-Arch%20btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF" /> 
 <img alt="Debian" src="https://img.shields.io/badge/-Debian-D70751?style=for-the-badge&logo=debian&logoColor=FFFFFF" /> 
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF" /> 
 
 <br>
 
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=FFFFFF" /> 
-<img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=FFFFFF" /> 
-<img alt="Hyper V" src="https://img.shields.io/badge/-Hyper%20V-183A61?style=for-the-badge&logoColor=FFFFFF" /> 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" /> 
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" /> 
+<img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-183A61?style=for-the-badge&logo=openstack&logoColor=ED1944" /> 
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF" /> 
+
+### Network Technologies
+
 <img alt="Ubiquiti" src="https://img.shields.io/badge/-Ubiquiti-0559C9?style=for-the-badge&logo=Ubiquiti&logoColor=FFFFFF" /> 
 
 ### Automation Tools
 
 <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF" /> 
 <img alt="Puppet" src="https://img.shields.io/badge/PUPPET-183A61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAxCAYAAAC78KvKAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAAWJLR0RnW9PpswAAAAd0SU1FB+UEDhEZEARRgVkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDQtMTRUMTc6MjU6MTYrMDA6MDBQCCgbAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTA0LTE0VDE3OjI1OjE2KzAwOjAwIVWQpwAAAnZJREFUWEftmEtrFEEQx6t6ZgchKK5izFPFBwEfCObiXbwr+MCNNw/i4xK8+g0Eb77AU3QVg17MHo3xA7gXDx7izcPuShQEwYC702W1qZ0YdnaZ7h6Jh/lBMVvVy9a/e6of26if7NgGGJXBAbzc+owAJK4TqJ+OzKJSd8W348dohFfrbfGcUPLcNAoBqQKIIGb7uW60Kk2502cE6JWaaQx1DWK9Txpyp6iB/1QAwmn9bKzeNQjVG2nJnVQBCFjmJfbEuuExadoAbf8Sykdn/F5BR1fp/XRJPCe8BCDCWVpuztP84UhC1ngXIb+iM9T+7izC7IZ7IcAp8QcTUwCo7nDPj0gkgVfL11gqn8cLH39JKBPcATv03O5hCIJFFnFUQgkEtIBh+ZyNCGsBhj8ieGqmzQ4eiRoE6ra4g0FcdhJg0C9GdkGMi/2maBYI8LhzEaqLrRVYpVPc4w8ScsJrFqgrrRUeQi8R/tNwpvmVK+mxuNZ4C/ClEFAIyEuA84LmLYCqw/s5/y1xrfESoJ9PHiAI3nH390jIGmcBJjnozhIiTkrICcfdcOIghPESb0QTEkrgLXkONGU6xCJGNWsBujp+iI8xb/skf4SXmtf4rJD5zgB5bx/CLXqr+AOhTmmUN/wFHvZxCSXwhvQQK83rNskNfhcUAvf8Aff8hm1yg/80BLrvmtzgJYCH/R4nv+ma3OAlAKfGZn2SG1IF8C9qtnZiBB1p2khdnh6kjwDRS1VpRF2DOO6p+rzwLkJfCgGpCxHP7W/8+LTm8ZcAzV/w6TXvL/7VTSkn3Ml2smsc6k2eE0UNbH4RmjMdQdhz4ZAFrDRqfksxwG8MG9VptXQkggAAAABJRU5ErkJggg==" /> 
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=FFFFFF" /> 
 
 ### Applications, Tools and Services I use on a regualar basis 
 
 #### Applications ####
 
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" /> 
-<img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=FFFFFF" />
-<img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=FFFFFF" />
+<img alt="Windows Terminal" src="https://img.shields.io/badge/-windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=FFFFFF" />
+<img alt="iTerm2" src="https://img.shields.io/badge/-iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=FFFFFF" />
+<img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=FFFFFF" />
 
 #### Tools
 
@@ -66,6 +82,13 @@
 <a href="https://github.com/jc21/nginx-proxy-manager" target="_blank"><img alt="Nginx Proxy Manager" src="https://img.shields.io/badge/-Nginx%20Proxy%20Manager-CD2D92?style=for-the-badge&logo=nginx&logoColor=FFFFFF" /> 
 </a><img alt="Portainer" src="https://img.shields.io/badge/-Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=FFFFFF" /> 
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" /> 
+<img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" /> 
+
+<br>
+
+<img alt="Proton" src="https://img.shields.io/badge/-Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=FFFFFF" /> 
+<img alt="ProtonMail" src="https://img.shields.io/badge/-ProtoMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=FFFFFF" /> 
+<img alt="ProtonVPN" src="https://img.shields.io/badge/-ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=FFFFFF" /> 
 
 ### Languages & Frameworks 
 
@@ -98,9 +121,18 @@
 
 ### My Setup 
 
-| Desktop | Private | Work |
-| - | - | - |
-| <img alt="AMD Ryzen 9 5950X" src="https://img.shields.io/badge/-AMD%20Ryzen%209%205950X-ED1C24?style=for-the-badge&logo=AMD&logoColor=FFFFFF" /> <img alt="NVIDIA GeForce RTX 2070" src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF" /> | <img alt="Macbook Pro 15" src="https://img.shields.io/badge/-Macbook%20Pro%20%2215%20Mid%202015-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" /> | <img alt="Macbook Air M1" src="https://img.shields.io/badge/-Macbook%20Air%20M1-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" /> |
+Desktop 
+
+<img alt="AMD Ryzen 9 5950X" src="https://img.shields.io/badge/-AMD%20Ryzen%209%205950X-ED1C24?style=for-the-badge&logo=AMD&logoColor=FFFFFF" /> 
+<img alt="NVIDIA GeForce RTX 2070" src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF" />
+
+Private
+
+<img alt="Macbook Pro 15" src="https://img.shields.io/badge/-Macbook%20Pro%20%2215%20Mid%202015-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" />
+
+Work
+
+<img alt="Macbook Air M1" src="https://img.shields.io/badge/-Macbook%20Air%20M1-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" />
 
 ----
 
