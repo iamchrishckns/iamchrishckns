@@ -128,7 +128,7 @@ Desktop
 
 Private
 
-<img alt="Macbook Pro 15" src="https://img.shields.io/badge/-Macbook%20Pro%20%2215%20Mid%202015-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" />
+<img alt="Macbook Pro 15 with macOS Sonoma (OCLP)" src="https://img.shields.io/badge/-Macbook%20Pro%20%2215%20Mid%202015%20with%20macOS%20Sonoma%20OCLP-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" />
 
 Work
 
