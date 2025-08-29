@@ -18,7 +18,7 @@
 
 <p align="center">
     <img alt="Timezone Europe/Berlin (CEST)" src="https://img.shields.io/badge/Timezone-Europe/Berlin (CEST)-purple">
-    <img alt="Age 25" src="https://img.shields.io/badge/Age-25-purple">
+    <img alt="Age 27" src="https://img.shields.io/badge/Age-27-purple">
     <img alt="Pronouns He/Him" src="https://img.shields.io/badge/Pronouns-He / Him-purple">
 </p>
 
@@ -124,10 +124,11 @@
 Desktop 
 
 <img alt="AMD Ryzen 9 5950X" src="https://img.shields.io/badge/-AMD%20Ryzen%209%205950X-ED1C24?style=for-the-badge&logo=AMD&logoColor=FFFFFF" /> 
-<img alt="NVIDIA GeForce RTX 2070" src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF" />
+<img alt="NVIDIA GeForce RTX 2070" src="https://img.shields.io/badge/NVIDIA-RTX4070Ti%20Super-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF" />
 
 Private
 
+<img alt="MacStudio M1 Max" src="https://img.shields.io/badge/-Mac%20Studio%20M1%20Max-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" /> <br />
 <img alt="Macbook Pro 15 with macOS Sonoma (OCLP)" src="https://img.shields.io/badge/-Macbook%20Pro%20%2215%20Mid%202015%20with%20macOS%20Sonoma%20OCLP-333333?style=for-the-badge&logo=Apple&logoColor=FFFFFF" />
 
 Work
